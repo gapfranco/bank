@@ -4,7 +4,7 @@
 # This configuration file is loaded before any dependency and
 # is restricted to this project.
 
-# General application configuration
+# General application configuration - TESTE
 use Mix.Config
 
 config :bank_account,
