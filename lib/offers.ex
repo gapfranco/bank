@@ -9,5 +9,7 @@ defmodule BankAccount do
 
   TESTE 1 TESTE 1 TESTE 1 TESTE 1 TESTE 1 TESTE 1 TESTE 1
   TESTE 1 TESTE 1 TESTE 1 TESTE 1
+
+  ******* TESTE 3 ***********
   """
 end
